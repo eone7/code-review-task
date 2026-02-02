@@ -1,0 +1,12 @@
+fastapi==0.100.*
+uvicorn==0.23.*
+sqlalchemy==2.*
+alembic==1.11.*
+psycopg2-binary
+
+[lint]
+ruff
+black
+
+[test]
+pytest
