@@ -1,0 +1,13 @@
+# python
+__pycache__/
+*.pyc
+
+# packaging
+*.egg-info/
+
+# venv
+.venv/
+.env
+
+# IDE
+.idea/
